@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-28T21:59:47 IST" name="Default suite" finished-at="2024-11-28T22:00:02 IST" duration-ms="15021">
+    <groups>
+    </groups>
+    <test started-at="2024-11-28T21:59:47 IST" name="Default test" finished-at="2024-11-28T22:00:02 IST" duration-ms="15021">
+      <class name="TestBases.CreateAcntPageTest">
+        <test-method is-config="true" signature="testSetUp()[pri:0, instance:TestBases.CreateAcntPageTest@7586beff]" started-at="2024-11-28T21:59:48 IST" name="testSetUp" finished-at="2024-11-28T21:59:53 IST" duration-ms="5318" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSetUp -->
+        <test-method signature="testCreateAcnt()[pri:0, instance:TestBases.CreateAcntPageTest@7586beff]" started-at="2024-11-28T21:59:53 IST" name="testCreateAcnt" finished-at="2024-11-28T22:00:02 IST" duration-ms="9618" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCreateAcnt -->
+      </class> <!-- TestBases.CreateAcntPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
